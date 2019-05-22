@@ -38,5 +38,6 @@ function iLoveTheBeatles(num) {
   } 
   while(counter>0);
   
+  return loveArr;
   
 } 
