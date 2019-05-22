@@ -26,3 +26,13 @@ function johnLennonFacts(jlfacts) {
   
   return loudJLFacts;
 }
+
+function iLoveTheBeatles(num) {
+  
+  var loveArr = [];
+  var counter = 0;
+  
+  do {
+    
+  } while()
+} 
