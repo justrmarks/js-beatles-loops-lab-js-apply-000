@@ -3,9 +3,19 @@
 function theBeatlesPlay(musicians, instruments) {
   var playArr = [];
   
-  for (var x=0;x < musicians.length; x++) {
-    playArr[x]= 
+  for (var counter=0;x < musicians.length; x++) {
+    playArr[counter]= "${musicians[counter]} plays ${instruments[counter]}";
     
   }
+  
+  return playArr;
 
+}
+
+function johnLennonFacts(jlfacts) {
+  var counter = 0;
+  while (counter < jlfacts.length) {
+    
+    counter++;
+  }
 }
