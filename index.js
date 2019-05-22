@@ -37,7 +37,7 @@ function iLoveTheBeatles(num) {
     loveArr[counter] = "I love the Beatles!";
     counter--;
   } 
-  while(counter>1);
+  while(counter>0);
   
   return loveArr;
   
