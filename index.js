@@ -30,12 +30,12 @@ function johnLennonFacts(jlfacts) {
 function iLoveTheBeatles(num) {
   
   var loveArr = [];
-  var counter = 0;
+  var counter = num ;
   
   do {
     
   } 
-  while();
+  while(counter);
   
   
 } 
