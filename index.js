@@ -31,11 +31,12 @@ function johnLennonFacts(jlfacts) {
 function iLoveTheBeatles(num) {
   
   var loveArr = [];
-  
+  var index = 0;
   
   do {
-    loveArr[counter] = "I love the Beatles!";
+    loveArr[index] = "I love the Beatles!";
     num++;
+    index++;
   } 
   while(num<15);
   
