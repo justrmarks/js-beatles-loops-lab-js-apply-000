@@ -31,7 +31,7 @@ function johnLennonFacts(jlfacts) {
 function iLoveTheBeatles(num) {
   
   var loveArr = [];
-  var counter = Math.abs(num - 15);
+  var counter = 15 - num;
   
   do {
     loveArr[counter] = "I love the Beatles!";
