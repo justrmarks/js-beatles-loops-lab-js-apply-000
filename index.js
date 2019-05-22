@@ -33,7 +33,7 @@ function iLoveTheBeatles(num) {
   var counter = Math.abs(num - 15);
   
   do {
-    lovArr
+    lovArr.push("I love the Beatles!");
     counter--;
   } 
   while(counter>0);
